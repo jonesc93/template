@@ -27,7 +27,7 @@ a, a:visited {
 
 a:hover {
 	color: #77ccee;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 #nav {

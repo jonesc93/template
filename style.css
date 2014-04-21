@@ -17,8 +17,8 @@ header, main, footer {
 }
 
 header, main h1 {
-	color:#00ff00;
-}
+	color: orange;
+} 
 
 a, a:visited {
 	color:#c0c0c0;
